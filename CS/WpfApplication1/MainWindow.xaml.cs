@@ -1,4 +1,4 @@
-﻿using DevExpress.Xpf.Printing;
+using DevExpress.Xpf.Printing;
 using DevExpress.XtraPrinting;
 using DevExpress.XtraReports.UI;
 using System;

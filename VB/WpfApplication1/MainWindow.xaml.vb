@@ -1,4 +1,4 @@
-﻿Imports DevExpress.Xpf.Printing
+Imports DevExpress.Xpf.Printing
 Imports DevExpress.XtraPrinting
 Imports DevExpress.XtraReports.UI
 Imports System
